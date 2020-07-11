@@ -32,11 +32,15 @@ span {
   margin-bottom: 5px;
   size: 1.5em;
   border: 1px solid black;
+  width: 80px;
+  height: 40px;
+  text-align: center;
 
 }
 
 #s1{
   background-color: #FFC0CB;
+
 
 }
 
