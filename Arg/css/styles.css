@@ -282,10 +282,6 @@ header {
 @media (max-width: 767px) {
   /* Header */
 
-  .container {
-  width: 100%;
-}
-
   #logo-img {
     background: url('../images/Logo4.png') no-repeat;
     width:80px;
@@ -307,7 +303,7 @@ header {
   }
   .navbar-brand p { /* Kosher cert */
     /*font-size: 2vw;*/
-    font-size: 0.39em;
+    font-size: 0.34em;
     padding-top: 20px;
 
   }
